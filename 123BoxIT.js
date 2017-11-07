@@ -57,5 +57,5 @@ $( document ).ready(function() {
     demo123CF_CopyFieldValue.setFieldDestinationID('l34330973');
 	
     demo123CF_CopyFieldValue.init();
-	alert(this.id123cf+this.fieldDestination).value;
+
 });
