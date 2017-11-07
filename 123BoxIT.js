@@ -54,7 +54,7 @@ var demo123CF_CopyFieldValue = new function() {
 
 $( document ).ready(function() {
     demo123CF_CopyFieldValue.setFieldOriginID('33890062');
-    demo123CF_CopyFieldValue.setFieldDestinationID('34330973');
+    demo123CF_CopyFieldValue.setFieldDestinationID('34397336');
 	
     demo123CF_CopyFieldValue.init();
 
